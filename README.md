@@ -8,6 +8,9 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/AlencarLeo/JS-ToDoList?style=for-the-badge">
 </p>
 <p align="center">
+  👉 <a href="https://alencarleo.github.io/JS-ToDoList/">click here to see this project</a> 👈
+</p>
+<p align="center">
   <img src="/readme/demo.gif">
 </p>
 
